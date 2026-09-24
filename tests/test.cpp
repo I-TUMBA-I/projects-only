@@ -1,6 +1,8 @@
+#include <cstdio>
 #include <iostream>
 using namespace std;
 
 int main(){
-    cout << "im gay";
+    char x = getchar();
+    cout << x;
 }
